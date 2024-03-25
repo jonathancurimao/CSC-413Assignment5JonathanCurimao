@@ -10,7 +10,7 @@ public class CustomerDataConnection {
 
     // JDBC URL, username, and password of MySQL server
 
-    private static final String URL = "jdbc:mysql://localhost:3306/BankApplication";
+    private static final String URL = "jdbc:mysql://127.0.0.1:3306/?user=root";
 
     private static final String USERNAME = "root";
 

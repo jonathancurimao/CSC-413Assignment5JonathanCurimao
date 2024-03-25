@@ -12,7 +12,7 @@ public class Account {
         return customer;
     }
 
-    public void setBalance(int i) {
+    public void setBalance(double i) {
     }
 
     public void deposit(int i) {
