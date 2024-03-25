@@ -8,7 +8,7 @@ public class BankingFrame extends JFrame { // this class sets up the main window
 
     }
 
-    public void createBankGUI() {
+    public void createBankGUI() { // for now, this will be basis for the Bank Application GUI, this would be ran through the BankingApplication class
         this.setSize(800, 600);
         this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
