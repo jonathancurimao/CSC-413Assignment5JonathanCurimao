@@ -5,46 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9d48505f-a5e0-46fe-937a-efe4e3420dd0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/BankApplication/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/BankApplication/AccountDeposit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/BankApplication/AccountWithdrawal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/BankApplication/BankAccountTransaction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/BankApplication/BankAccountTransactionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/BankApplication/BankCustomerBuilderDriver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/BankApplication/DepositTransaction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/BankApplication/TransactionInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/BankApplication/WithdrawTransaction.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Account.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AccountController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BankApplication/AccountController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AccountJunitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BankApplication/AccountJunitTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AccountPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BankApplication/AccountPanel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Address.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BankApplication/Address.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Administrator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BankApplication/Administrator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AdministratorJunitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BankApplication/AdministratorJunitTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/BankingApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BankApplication/BankingApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/BankingFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BankApplication/BankingFrame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BankApplication/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/CustomerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BankApplication/CustomerController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/CustomerDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BankApplication/CustomerDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/CustomerDAOConcrete.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BankApplication/CustomerDAOConcrete.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/CustomerDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BankApplication/CustomerDTO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/CustomerDataConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BankApplication/CustomerDataConnection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/CustomerJunitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BankApplication/CustomerJunitTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/CustomerPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BankApplication/CustomerPanel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/DAOInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BankApplication/DAOInterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/JavatoJSONUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BankApplication/JavatoJSONUser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/JsontoJavaUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BankApplication/JsontoJavaUser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/PriorityQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BankApplication/PriorityQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/QueueInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BankApplication/QueueInterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Security.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BankApplication/Security.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Teller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BankApplication/Teller.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Transaction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BankApplication/Transaction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/TransactionController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BankApplication/TransactionController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/TransactionJunitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BankApplication/TransactionJunitTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/TransactionPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BankApplication/TransactionPanel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BankApplication/User.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,6 +53,9 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
