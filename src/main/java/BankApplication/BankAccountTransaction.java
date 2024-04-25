@@ -13,7 +13,7 @@ public class BankAccountTransaction { // the invoker for the command pattern
     private Account account;
     private TransactionInterface transaction;
 
-    public BankAccountTransaction(int id, String type, double amount, String description, Account account) {
+    public BankAccountTransaction(int id, String type, double amount, String description, Account account) { // constructor for the transaction sequence that shows when the transaction occurred
         this.id = id;
         this.type = type;
         this.amount = amount;
@@ -27,7 +27,7 @@ public class BankAccountTransaction { // the invoker for the command pattern
         this.transaction = transaction;
     }
 
-    public void executeTransaction() {
+    public void executeTransaction() { // uses the transactionInterface method to note if the transaction was a success or not
         if (transaction != null) {
             transaction.execute();
             this.status = "Transaction success";
@@ -36,6 +36,7 @@ public class BankAccountTransaction { // the invoker for the command pattern
         }
     }
 
+    // getters and setters
     public int getId() {
         return id;
     }

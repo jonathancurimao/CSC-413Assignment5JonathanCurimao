@@ -1,6 +1,6 @@
 package BankApplication;
 
-public abstract class WithdrawTransaction implements TransactionInterface {
+public abstract class WithdrawTransaction implements TransactionInterface { // the purpose of this class is for the account withdrawing funds
     private Account account;
     private double amount;
 

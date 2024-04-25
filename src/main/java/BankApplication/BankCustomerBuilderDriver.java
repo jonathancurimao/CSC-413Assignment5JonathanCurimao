@@ -1,6 +1,6 @@
 package BankApplication;
 
-public class BankCustomerBuilderDriver {
+public class BankCustomerBuilderDriver { // a driver for BankCustomerBuilder
     public static void main (String [] args) {
 
         Customer.BankCustomerBuilder builder = new Customer.BankCustomerBuilder(); // Instantiating BankCustomerBuilder

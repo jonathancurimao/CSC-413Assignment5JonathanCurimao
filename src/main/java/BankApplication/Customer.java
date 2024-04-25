@@ -116,7 +116,7 @@ public class Customer implements Comparable<Customer> {
         return Long.compare(other.creationTime, this.creationTime);
     }
 
-    public static class BankCustomerBuilder {
+    public static class BankCustomerBuilder { // the BankCustomerBuilder class  that creates the customers
         private String name;
         private String email;
         private int id;
