@@ -1,4 +1,6 @@
-package BankApplication;
+package BankAppTest;
+
+import BankApplication.Customer;
 
 public class BankCustomerBuilderDriver { // a driver for BankCustomerBuilder
     public static void main (String [] args) {

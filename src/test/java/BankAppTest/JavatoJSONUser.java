@@ -1,5 +1,6 @@
-package BankApplication;
+package BankAppTest;
 
+import BankApplication.User;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
 public class JavatoJSONUser {

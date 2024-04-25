@@ -1,6 +1,8 @@
-package BankApplication;
+package BankAppTest;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
+
+import BankApplication.Transaction;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 public class TransactionJunitTest {

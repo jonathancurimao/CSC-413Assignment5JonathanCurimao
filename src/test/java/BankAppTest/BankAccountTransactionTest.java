@@ -1,8 +1,8 @@
-package BankApplication;
+package BankAppTest;
 
-/*
+import BankApplication.*;
 
- */
+
 public class BankAccountTransactionTest { // this will test the Transaction interface and the execute commands
     public static void main(String[] args) {
 
