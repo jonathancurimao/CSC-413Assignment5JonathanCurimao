@@ -4,3 +4,6 @@ Objective-1 additional documentation for the Grader:
 
 Objective-2 additional documentation for the Grader:
 - Instead of using string, I have decided to create a Customer object that has the accountNumber implemented as an int. This customer object would be used as a new Account object from my Account class. This is present in my BankAccountTransactionTest, which tests the commands, mainly the execute() command.
+
+Instructions:
+- All my implemented classes and the transactionInterface is found in the BankApplication folder.
