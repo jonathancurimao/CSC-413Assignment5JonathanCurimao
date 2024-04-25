@@ -1,5 +1,5 @@
 Objective-1 additional documentation for the Grader:
-- The BankCustomerBuilder class is found within my Customer class with the build() method
+- The BankCustomerBuilder class is found within my Customer class with the build() method. (The main java folder)
 - The driver (test) class is the BankCustomerBuilderDriver class with its BankCustomer object and the Builder pattern. It can be found in the test folder, under the package BankAppTests.
 
 Objective-2 additional documentation for the Grader:
