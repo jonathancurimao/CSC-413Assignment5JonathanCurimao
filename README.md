@@ -7,3 +7,5 @@ Objective-2 additional documentation for the Grader:
 
 Instructions:
 - All my implemented classes and the transactionInterface is found in the BankApplication folder.
+- For objective-1, run BankCustomerBuilderDriver class
+- For objective-2, the BankApplication folder contains the BankAccountTransaction class, the transaction interface, and the specified concrete transaction classes. There is also a test class, BankAccountTransactionTest, thats tests the execute() command.
